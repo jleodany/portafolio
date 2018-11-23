@@ -1,0 +1,22 @@
+Otra página: Página tipo prensa (anuncio publicitarios, panorama)
+
+Hacer un portal de noticias, con información de calidad, puede ser variable
+
+-------------
+
+
+-Header: menu
+
+-Cuerpo: 
+
+	*Carrusel o slider de fotos o noticias que estén pasando actualmente
+
+	* fotos más pequeñas de 3 columnas. Sí presiono una de las fotos pequeñas de las noticias o del carrusel me debe 	redireccionar a la página de esa noticia 
+
+
+	*Botones de redes sociales: fixed de lado izquierdo, si me paro sobre el icono debe expandir
+
+-Footer: 
+
+	*Debe ser ancho con formulario de contacto
+
